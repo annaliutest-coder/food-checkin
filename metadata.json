@@ -1,0 +1,7 @@
+{
+  "name": "2026 國際週 - 全球小吃回饋蒐集 (CRM)",
+  "description": "師大華語系國華組國際週專屬 CRM 系統 - Powered by Reverse",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
